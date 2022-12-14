@@ -21,6 +21,12 @@ Yes, pls try <https://github.com/EasyIME/PIME> It looks mature and updated.
 
 1. How to Install Python Exe?
 2. What is the good enough way to translate a set of English char to Thai pharse?
+3. Are there any karaoke database that we can use?
+Nope. But, we can use `pythainlp` to build our own dataset.
+
+4. Could we build an AI model to do this?
+Maybe, but that is beyond my knowledge.
+
 
 # OpenAI ChatGPT Said
 > Me: I want to create a phonetic input method for Thai. I want to done it using python. i know `PIME` could bridge the interface to Text Services Framework. but, how to get started
