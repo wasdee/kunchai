@@ -3,7 +3,11 @@ a phonetic input method for Thai.
 ~~pinyin-like style input for Thai pharse using a set of English character.~~
 ![Google Input Tools](Assets/Animation.gif)
 
-# existing project
+# Pain Point
+1. I don't want to buy a thai+english keycap for my mechanical keyboard. English keycap is light lit thru is so beuatiful. the thai keycap is not opaque.
+2. I'm not able to spell many common thai words without mistake. 
+
+# existing projects
 1. Google Input Tools - this is only works on chrome-based browser.
 2. <https://www.lexilogos.com/keyboard/thai.htm>
 
@@ -19,12 +23,12 @@ They requires you to access  `Text Services Framework (TSF)`. Normally, api are 
 1. Could we communicate with windows language service using Python?
 Yes, pls try <https://github.com/EasyIME/PIME> It looks mature and updated.
 
-1. How to Install Python Exe?
+1. How to Install Python Exe? Best exp is here. <https://github.com/timmo001/system-bridge>
 2. What is the good enough way to translate a set of English char to Thai pharse?
 3. Are there any karaoke database that we can use?
 Nope. But, we can use `pythainlp` to build our own dataset.
 
-4. Could we build an AI model to do this?
+1. Could we build an AI model to do this?
 Maybe, but that is beyond my knowledge.
 
 
