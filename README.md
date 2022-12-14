@@ -4,8 +4,9 @@ a phonetic input method for Thai.
 ![Google Input Tools](Assets/Animation.gif)
 
 # Pain Point
-1. I don't want to buy a thai+english keycap for my mechanical keyboard. English keycap is light lit thru is so beuatiful. the thai keycap is  opaque.
+1. I don't want to buy a thai+english keycap for my mechanical keyboard. English keycap is light lit thru is so beuatiful. the thai keycap is opaque.
 2. I'm not able to spell many common thai words without mistake. 
+3. I'm a faster typer on English
 
 # existing projects
 1. Google Input Tools - this is only works on chrome-based browser.
