@@ -1,4 +1,4 @@
-# karaben
+# agkara
 a phonetic input method for Thai.
 ~~pinyin-like style input for Thai pharse using a set of English character.~~
 ![Google Input Tools](Assets/Animation.gif)
