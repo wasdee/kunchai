@@ -1,0 +1,3 @@
+[submodule "PIME"]
+	path = PIME
+	url = https://github.com/EasyIME/PIME.git
